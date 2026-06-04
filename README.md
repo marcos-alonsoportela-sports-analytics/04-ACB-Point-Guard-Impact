@@ -10,7 +10,7 @@ The objective was to compare players using scoring, playmaking, defensive contri
 
 ### Impact Score Ranking
 
-![Impact Score Ranking](Ranking Impacto Ofensivo Bases de ACB.png)
+![Impact Score Ranking](acb_impact_score_ranking.png)
 
 ## Tools Used
 
