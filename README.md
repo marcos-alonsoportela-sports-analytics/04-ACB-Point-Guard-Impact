@@ -6,6 +6,12 @@ This project analyses the impact of a sample of point guards from Liga Endesa du
 
 The objective was to compare players using scoring, playmaking, defensive contribution and overall performance metrics through a custom indicator called Impact Score.
 
+## Main Visualization
+
+### Impact Score Ranking
+
+![Impact Score Ranking](Ranking Impacto Ofensivo Bases de ACB.png)
+
 ## Tools Used
 
 - Python
